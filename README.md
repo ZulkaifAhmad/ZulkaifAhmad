@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Zulkaif Ahmad</h1>
+<h1 align="center">Hello , I'm Zulkaif Ahmad</h1>
 <h3 align="center">I am a proficient Full-Stack Developer specializing in Next.js</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zulkaifkhan123](https://github.com/zulkaifkhan123)
+- All of my projects are available at [https://github.com/zulkaifkhan123](https://github.com/zulkaifkhan123)
 
-- 💬 Ask me about **React js , Next js , Mongodb**
+- Ask me about **React js , Next js , Mongodb**
 
-- 📫 How to reach me **zulkaifkhan183@gmail.com**
+- How to reach me **zulkaifkhan183@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
