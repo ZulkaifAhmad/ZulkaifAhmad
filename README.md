@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Zulkaif Ahmad</h1>
+<h1 align="center">Hello , I'm Zulkaif Khan</h1>
 <h3 align="center">I am a Proficient Full-Stack Developer Specializing in Next.js</h3>
 
 - I’m currently learning **MERN Stack**
