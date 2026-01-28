@@ -1,9 +1,10 @@
 <h1 align="center">Hello , I'm Zulkaif Khan</h1>
 <h3 align="center">I am a Proficient Full-Stack Developer Specializing in Next.js</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ZulkaifAhmad&label=Profile%20views&color=0e75b6&style=flat" alt="ZulkaifAhmad" />
+</p>
 
-- I’m currently learning **MERN Stack**
-
-- All of my projects are available at [https://github.com/zulkaifkhan123](https://github.com/zulkaifkhan123)
+- All of my projects are available at [https://github.com/zulkaifkhan123](https://github.com/ZulkaifAhmad)
 
 - Ask me about **React js , Next js , Mongodb**
 
