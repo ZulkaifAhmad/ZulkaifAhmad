@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ZulkaifAhmad&label=Profile%20views&color=0e75b6&style=flat" alt="ZulkaifAhmad" />
 </p>
 
-- All of my projects are available at [https://github.com/zulkaifkhan123](https://github.com/ZulkaifAhmad)
+- All of my projects are available at [https://github.com/ZulkaifAhmad](https://github.com/ZulkaifAhmad)
 
 - Ask me about **React js , Next js , Mongodb**
 
