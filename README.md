@@ -1,5 +1,5 @@
-<h1 align="center">Hello , I'm Zulkaif Khan</h1>
-<h3 align="center">I am a Proficient Full-Stack Developer Specializing in Next.js</h3>
+<h1 align="center">Hello , I'm Zulkaif Ahmad</h1>
+<h3 align="center">I am a Proficient Frontend Developer Specializing in Next.js</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ZulkaifAhmad&label=Profile%20views&color=0e75b6&style=flat" alt="ZulkaifAhmad" />
 </p>
