@@ -6,7 +6,7 @@
 
 - All of my projects are available at [https://github.com/ZulkaifAhmad](https://github.com/ZulkaifAhmad)
 
-- Ask me about **React js , Next js , Mongodb**
+- Ask me about **React js , Next js**
 
 - How to reach me **zulkaifkhan183@gmail.com**
 
