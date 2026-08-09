@@ -32,14 +32,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- **Gen AI Resume Analyzer & Builder** — AI platform for skill-gap analysis and personalized interview prep from a resume and job description. *MERN Stack, Generative AI APIs.*
-- **Doctor Portfolio Website** ([drwaqarhussain.com](https://drwaqarhussain.com)) — Multi-page site on a custom domain with EmailJS contact form and local SEO schema markup. *React.js, Tailwind CSS, Zod, React Hook Form.*
-- **Textoria Blog Platform** ([Live Demo](https://textoria-tawny.vercel.app/)) — Responsive blog with dynamic routing and performance optimization. *Next.js, Tailwind CSS.*
-
----
-
 ### 🎓 Education
 
 - **BS Computer Science** — University of Agriculture Peshawar *(2024–2027)*
@@ -61,13 +53,17 @@
 **Backend**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)
 
-**Python & Data**  
+**Python, Data & Machine Learning**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
